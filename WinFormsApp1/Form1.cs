@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace WinFormsApp1
+﻿namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
